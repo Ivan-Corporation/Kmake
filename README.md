@@ -1,3 +1,9 @@
 # Kmake
+<p align="center"> 
 Example code for Snake JS Game
-![Kmake](https://github.com/Ivan-Corporation/Kmake/blob/master/Kmake.png)
+</p>
+
+<p align="center"> 
+<img src="https://github.com/Ivan-Corporation/Kmake/blob/master/Kmake.png">
+</p>
+
